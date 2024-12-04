@@ -4,6 +4,7 @@ This repository contains solutions to various Data Structures and Algorithms (DS
 
 ## Categories
 - Arrays
+- Strings
 
 ## Platforms
 - LeetCode
